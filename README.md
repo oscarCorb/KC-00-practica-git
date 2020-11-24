@@ -1,6 +1,5 @@
 -  ¿Qué comando utilizaste en el paso 11? ¿Por qué?
-git reset --hard HEAD~1. 
-HEAD~1 para volver al commit padre y --hard porque el ejercicio pide perder los cambios realizados en el work copy.
+git reset --hard HEAD~1 para volver al commit padre y --hard porque el ejercicio pide perder los cambios realizados en el work copy.
 
 -  ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 git reset --hard e9a2d19. 
